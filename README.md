@@ -1,1 +1,1 @@
-# smart-method
+#speechToText , esp32 programmed
